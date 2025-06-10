@@ -9,7 +9,7 @@
  */
 namespace LosPdf\View\Renderer;
 
-use mPDF;
+use Mpdf\Mpdf;
 use LosPdf\View\Model\PdfModel;
 
 /**
